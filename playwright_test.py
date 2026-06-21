@@ -8,7 +8,7 @@ import time
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-URL_BASE = "https://allegro.pl/kategoria/utrzymanie-czystosci-chemia-gospodarcza-317369"
+URL_BASE = "link_do strony"
 
 def safe_goto(page, url, retries=3):
     for attempt in range(retries):
